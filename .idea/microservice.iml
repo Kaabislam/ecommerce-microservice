@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/api-gateway/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/api-gateway/target" />
+      <excludeFolder url="file://$MODULE_DIR$/api-gateway/volume-data/mysql_keycloak_data/#innodb_redo" />
+      <excludeFolder url="file://$MODULE_DIR$/api-gateway/volume-data/mysql_keycloak_data/#innodb_temp" />
+      <excludeFolder url="file://$MODULE_DIR$/api-gateway/volume-data/mysql_keycloak_data/keycloak" />
+      <excludeFolder url="file://$MODULE_DIR$/api-gateway/volume-data/mysql_keycloak_data/mysql" />
+      <excludeFolder url="file://$MODULE_DIR$/api-gateway/volume-data/mysql_keycloak_data/performance_schema" />
+      <excludeFolder url="file://$MODULE_DIR$/api-gateway/volume-data/mysql_keycloak_data/sys" />
+      <excludeFolder url="file://$MODULE_DIR$/inventory-service/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/inventory-service/target" />
+      <excludeFolder url="file://$MODULE_DIR$/order-service/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/order-service/target" />
+      <excludeFolder url="file://$MODULE_DIR$/product-service/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/product-service/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
